@@ -581,7 +581,7 @@ class OfflineSyncService {
 
 #### **Screenrecords**
 
-https://github.com/user-attachments/assets/734add4e-c497-425c-8635-66b0fda08777
+https://github.com/user-attachments/assets/521fbf8c-bc9e-4e22-b6a8-efd04a55e221
 
 https://github.com/user-attachments/assets/406e2912-2d08-4adb-9071-2b8e3b5c2bde
 
